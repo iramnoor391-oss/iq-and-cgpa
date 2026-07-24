@@ -1,5 +1,4 @@
-#ye chu ml project
-#athhe leagzine keh athhe phitrawai
+
 from flask import Flask, render_template, request
 import pickle as pkl
 
